@@ -8,7 +8,7 @@ int main (){
     a=2.897;
     c = a + b;
 
-    printf("The sum of %.3f and %.3f is %d\n", a, b, c);
+    printf("The sum of %.f and %.3f is %d", a, b, c);
 
     return 0;
 

@@ -11,7 +11,7 @@ int main(){
 
     area = width * length;
 
-    printf("The area is: %.3g\n", area);
+    printf("The area is: %.3f\n", area);
 
     return 0;
 
